@@ -1,0 +1,12 @@
+h1 {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+img {
+    height: auto;
+    width: 300px;
+}
+#testo-sotto-immagine {
+    color: rgb(107, 107, 107);
+}
